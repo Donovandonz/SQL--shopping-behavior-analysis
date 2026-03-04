@@ -705,7 +705,7 @@ A comprehensive SQL-based data analysis project examining customer shopping beha
 ---
 
 # 👇Full SQL query code analysis👇
--< a href="https://github.com/Donovandonz/SQL--shopping-behavior-analysis/blob/main/Shopping_behavior_db.sql">shopping-behavior-sql-code-analysis</a>
+-<a href="https://github.com/Donovandonz/SQL--shopping-behavior-analysis/blob/main/Shopping_behavior_db.sql">shopping-behavior-sql-code-analysis</a>
 
 
 
