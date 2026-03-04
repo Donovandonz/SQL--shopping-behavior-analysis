@@ -81,7 +81,7 @@ A comprehensive SQL-based data analysis project examining customer shopping beha
 ---
 
 # 📊 Key Findings & Insights
-### 1. Customer Demographic by Age distribution of customers
+# 1. Customer Demographic by Age distribution of customers
 <img width="437" height="132" alt="Customer-demographics" src="https://github.com/user-attachments/assets/704a1fb3-d54c-4050-b5d3-f6dae7837fee" />
 
 ## 💡 Key Insights
@@ -113,7 +113,7 @@ A comprehensive SQL-based data analysis project examining customer shopping beha
 
 ---
 
-### 2. Gender analysis?
+# 2. Gender analysis?
 <img width="406" height="73" alt="Screenshot 2026-03-04 121906" src="https://github.com/user-attachments/assets/773760f6-defb-4a1b-9e3c-9b7f2ee76858" />
 
 ## 👥 Gender Analysis: Findings & Insights
@@ -142,7 +142,7 @@ A comprehensive SQL-based data analysis project examining customer shopping beha
 
 ---
 
-### 3. Most popular categories?
+# 3. Most popular categories?
 <img width="527" height="110" alt="Screenshot 2026-03-04 122410" src="https://github.com/user-attachments/assets/98c1871d-2d2d-4d4f-8862-87bc49686df5" />
 
 ## 🛍️ Most Popular Categories Analysis
