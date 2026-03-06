@@ -708,6 +708,14 @@ A comprehensive SQL-based data analysis project examining customer shopping beha
 -<a href="https://github.com/Donovandonz/SQL--shopping-behavior-analysis/blob/main/Shopping_behavior_db.sql">shopping-behavior-sql-code-analysis</a>
 
 
+---
+
+# Dashboard Overview (Tableau)👇
+-<a href="https://github.com/Donovandonz/Tableau--shopping-behavior-dashboard/blob/main/README.md">Tableau-shopping-behavior-dashboard</a>
+
+<img width="1910" height="1032" alt="Shopping-behavior-dashboard" src="https://github.com/user-attachments/assets/ed9d336f-2ced-40ea-b544-d557b7a85d67" />
+
+
 
 
 
